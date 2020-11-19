@@ -11,8 +11,7 @@
                     <key>kind</key>
                     <string>software-package</string>
                     <key>url</key>
-					<string>http://211.103.138.246:18180/apk?package_name=com.housekeeper.pv</string>
-                    <string_bak>http://www.ux6u.cn/iOS.hjylresigned.ipa</string_bak>
+					<string>http://211.103.138.246:18180/iOS.hjylresigned.ipa</string>
                 </dict>
             </array>
             <key>metadata</key>
